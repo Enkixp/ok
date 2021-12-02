@@ -40,3 +40,4 @@
 # Contributors:
  * [Manav Garg](https://github.com/ManavvGarg) -Code and Commands
  * [FirezTheGreat](https://github.com/FirezTheGreat) -File Structure and Message Events handler
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
